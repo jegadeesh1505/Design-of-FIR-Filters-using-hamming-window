@@ -11,7 +11,7 @@
   PC Installed with SCILAB 
 
 # PROGRAM 
-```
+```python
 clc;
 clear;
 close;
